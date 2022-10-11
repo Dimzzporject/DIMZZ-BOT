@@ -51,7 +51,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 global.sig = 'https://instagram.com/-' // ig
 global.sgh = 'https://github.com/DimzzPorject/' // github
-global.sgc = 'https://chat.whatsapp.com/CobXtDTeYXC4pk78JvpTXr // group whatsapp
+global.sgc = 'https://chat.whatsapp.com/CobXtDTeYXC4pk78JvpTXr' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
 global.snh = 'https://nhentai.net/g/.' //Hmmm, Ini boleh kalian isi terserah :v
 global.sfb = 'https://www.facebook.com/' // facebook
